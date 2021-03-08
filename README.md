@@ -28,19 +28,24 @@ All files in this repository were developed using Node.js (v14.15.5), and the fo
 
 ## How to use
 
-- When the app start the ToDo App MENU will show up.
+- When the app start the ToDo App MENU will show up:
+
 ![ToDo App Menu](todo-app-menu.png)
 
-- To create a new task just select the option 'Create Task', and a message will be prompted to 'Enter Task title'.
+- To create a new task just select the option 'Create Task', and a message will be prompted to 'Enter Task title':
+
 ![Create Task](create-task.png)
 
-- To view the Taks list select the option 'Get all Tasks'.
+- To view the Taks list select the option 'Get all Tasks':
+
 ![Tasks list](tasks-list.png)
 
-- To delete a task select the option 'Delete Task' and you will be required to select the task that you want to delete (select 'Go back...' option to cancel).
+- To delete a task select the option 'Delete Task' and you will be required to select the task that you want to delete (select 'Go back...' option to cancel):
+
 ![Delete Task](delete-task.png)
 
-- To change the satus of a Task to COMPLETED select the option 'Complete Task' and you will be required to select the task that you want to set status to completed (select 'Go back...' option to cancel).
+- To change the satus of a Task to COMPLETED select the option 'Complete Task' and you will be required to select the task that you want to set status to completed (select 'Go back...' option to cancel):
+
 ![Complete Task](complete-task.png)
 ## Author Info
 
