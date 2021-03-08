@@ -13,10 +13,6 @@
 
 'ToDo App' is an application developed with NodeJS, and gives the user the option to create a List of Tasks.
 
-[Back To The Top](#ToDo-App)
-
-## Development
-
 All files in this repository were developed using Node.js (v14.15.5), and the following external libraries has been used in the project:
 
     - inquirer (v8.0.0)
