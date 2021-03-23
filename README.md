@@ -10,6 +10,8 @@
 ## DESCRIPTION
 **'ToDo App'** is an application that allows the creation of a list of pending tasks and allowing that they can then be completed by automatically changing their status.
 
+[Back To The Top](#ToDo-App)
+
 ## DEVELOPMENT
 All files in this repository were developed using *Node.js v14.15.5*, and the following external libraries has been used in the project:
 
@@ -40,6 +42,8 @@ All files in this repository were developed using *Node.js v14.15.5*, and the fo
 - To change the satus of a Task to COMPLETED select the option *Complete Task* and you will be required to select the task that you want to set status to completed (select *Go back...* option to cancel):
 
 ![Complete Task](complete-task.png)
+
+[Back To The Top](#ToDo-App)
 ## AUTHOR INFO
 - **Email**: adriansanchez88@gmail.com
 
