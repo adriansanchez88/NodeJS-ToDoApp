@@ -1,4 +1,5 @@
 const {inquirerMenu, inquirerInput} =  require('./helpers/inquirer')
+const {getAllTasks, createTask} =  require('./services/fileService')
 const TaskRepository = require('./repositories/TaskRepository');
 const inquirer = require('inquirer');
 const colors = require('colors');
@@ -16,7 +17,8 @@ const main = async() => {
                     console.clear();
                     const title = await inquirerInput('Enter Task title:');
                     console.clear();
-                    taskRepository.createTask(title);                    
+                    taskRepository.createTask(title);
+                    //createTask(title);                  
                 } catch (error) {
                     console.log(error.message.red);                    
                 }
