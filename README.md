@@ -25,7 +25,7 @@ All files in this repository were developed using *Node.js v14.15.5*, and the fo
 
 ![ToDo App Menu](todo-app-menu.png)
 
-- To create a new task just select the option 'Create Task', and a message will be prompted to *Enter Task title*:
+- To create a new task just select the option *Create Task*, and a message will be prompted to *Enter Task title*:
 
 ![Create Task](create-task.png)
 
